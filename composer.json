@@ -19,7 +19,6 @@
             "email": "steve.gill@tahoelimited.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.5",
         "symfony/framework-bundle": "~2.3",
@@ -28,7 +27,7 @@
         "symfony/twig-bundle": "~2.3",
         "symfony/form": "~2.3",
         "symfony/security-bundle": "~2.3",
-        "friendsofsymfony/user-bundle": "~2.0@dev",
+        "friendsofsymfony/user-bundle": "~2.0",
         "recurly/recurly-client": "2.3.*"
     },
     "autoload": {
